@@ -168,7 +168,7 @@ set shiftwidth=4
 set expandtab
 
 "" Map leader to ,
-let mapleader=','
+let mapleader=' '
 
 "" Enable hidden buffers
 set hidden
@@ -199,6 +199,8 @@ let g:session_command_aliases = 1
 syntax on
 set ruler
 set number
+set relativenumber
+set signcolumn=yes
 
 let no_buffers_menu=1
 colorscheme codedark
@@ -243,7 +245,7 @@ endif
 "" Disable the blinking cursor.
 set gcr=a:blinkon0
 
-set scrolloff=3
+set scrolloff=8
 
 
 "" Status bar
