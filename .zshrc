@@ -117,3 +117,6 @@ alias ls="lsd"
 export GOPATH=/home/morphtail/Development/GO/golib
 export PATH=$PATH:$GOPATH/bin
 export GOPATH=:/home/morphtail/Development/GO/code
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
