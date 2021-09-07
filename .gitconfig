@@ -1,0 +1,7 @@
+[user]
+	name = MorphTail
+	email = chitniskshitij@gmail.com
+[credential]
+	helper = store
+[pull]
+	rebase = false
