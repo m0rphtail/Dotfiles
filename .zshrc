@@ -110,6 +110,7 @@ alias ohmyzsh="mate ~/.oh-my-zsh"
 alias up="paru --skipreview -Syyu && flatpak update"
 alias pkg="paru --skipreview"
 alias ls="lsd"
+alias kali="docker run -it -v $(pwd):/shared kalilinux/kali-rolling /bin/bash"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
