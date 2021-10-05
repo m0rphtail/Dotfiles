@@ -125,7 +125,7 @@ Without/with Treesitter:
 - Beautiful and configurable icons with [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons).
 - Pretty and functional statusline with [feline.nvim](https://github.com/Famiu/feline.nvim).
 - Git diffs and more with [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) .
-- NeoVim Lisp configuration with [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig).
+- NeoVim Lsp configuration with [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig).
 - Autocompletion with [nvim-cmp](https://github.com/hrsh7th/nvim-cmp).
 - File searching, previewing image and text files and more with [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
 - Syntax highlighting with [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter).
@@ -138,7 +138,7 @@ Without/with Treesitter:
 
 To everyone who thinks that NvChad is bloat: Bloat means different things to everyone.
 
-NvChad has 38 plugins installed by default yet it is still very fast because it uses Packer plugin maanager. Packer.nvim allows you lets you lazy load plugins, meaning they get loaded only when absoloutely required. Furthermore, you can disable plugins you don't use in `chardrc.lua`.
+NvChad has 38 plugins installed by default, yet it is still very fast because it uses the Packer plugin manager. Packer.nvim allows you to lazy load plugins, meaning they only get loaded when absolutely required. Furthermore, you can disable plugins you don't use in `chardrc.lua`.
 
 <img src = "https://chadpaste.com/f/kdmxdabxbk.png">
 
