@@ -14,7 +14,7 @@
   split_vert = <Alt>v
 [profiles]
   [[default]]
-    background_color = "#1d1f21"
+    background_color = "#1e1e1e"
     background_darkness = 0.06
     cursor_color = "#aaaaaa"
     foreground_color = "#bfbfbf"

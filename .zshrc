@@ -123,3 +123,5 @@ export GOPATH=:/home/morphtail/Development/GO/code
 export PATH="$PATH:$HOME/.rvm/bin"
 
 [ -d ~/.cargo/bin ] && export PATH="~/.cargo/bin:$PATH"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
