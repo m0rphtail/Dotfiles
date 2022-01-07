@@ -109,13 +109,18 @@ alias ohmyzsh="vim ~/.oh-my-zsh"
 alias up="paru --skipreview -Syyu && flatpak update"
 alias pkg="paru --skipreview"
 alias ls="lsd"
+alias l='ls -l'
+alias la='ls -a'
+alias lla='ls -la'
+alias lt='ls --tree'
+alias rm="trash"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export GOPATH=/home/morphtail/Development/GO/golib
+export GOPATH=/home/morphtail/Data/Development/GO/golib
 export PATH=$PATH:$GOPATH/bin
-export GOPATH=:/home/morphtail/Development/GO/code
+export GOPATH=/home/morphtail/Data/Development/GO/code
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
