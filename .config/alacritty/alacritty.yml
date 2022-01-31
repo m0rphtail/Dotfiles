@@ -12,15 +12,15 @@ window:
 
 font:
   normal:
-    family: JetBrains Mono
+    family: JetBrains Mono 
     style: Regular
 
   bold:
-    family: JetBrains Mono
+    family: JetBrains Mono 
     style: Bold
 
   italic:
-    family: JetBrains Mono
+    family: JetBrains Mono 
     style: Italic
 
   bold_italic:
@@ -57,26 +57,26 @@ colors:
 
   # Selection colors
   selection:
-    text: '0xbbc2cf'
+    text: '0xadd8e6'
 
   # Normal colors
   normal:
-    black:   '0x1c1f24'
-    red:     '0xff6c6b'
-    green:   '0x98be65'
-    yellow:  '0xda8548'
-    blue:    '0x51afef'
-    magenta: '0xc678dd'
-    cyan:    '0x5699af'
-    white:   '0x202328'
+    black:   '0x202124'
+    red:     '0xea4335'
+    green:   '0x34a853'
+    yellow:  '0xfbbc04'
+    blue:    '0x4285f4'
+    magenta: '0xa142f4'
+    cyan:    '0x24c1e0'
+    white:   '0xe8eaed'
 
   # Bright colors
   bright:
-    black:   '0x5b6268'
-    red:     '0xda8548'
-    green:   '0x4db5bd'
-    yellow:  '0xecbe7b'
-    blue:    '0x3071db'
-    magenta: '0xa9a1e1'
-    cyan:    '0x46d9ff'
-    white:   '0xdfdfdf'
+    black:   '0x5f6368'
+    red:     '0xea4335'
+    green:   '0x34a853'
+    yellow:  '0xfbbc05'
+    blue:    '0x4285f4'
+    magenta: '0xa142f4'
+    cyan:    '0x24c1e0'
+    white:   '0xffffff'
