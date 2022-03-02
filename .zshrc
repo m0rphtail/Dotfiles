@@ -50,9 +50,12 @@ alias l='ls -l'
 alias la='ls -a'
 alias lla='ls -la'
 alias lt='ls --tree'
-alias rm="trash"
+alias rm="trash-put"
 alias vim="nvim"
 alias cd="z"
+alias gdb="gdb -q"
+alias py="python"
+alias ipy="ipython"
 
 export GOPATH=/home/morphtail/Development/GO/golib
 export PATH=$PATH:$GOPATH/bin

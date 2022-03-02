@@ -15,7 +15,6 @@ set number
 set scrolloff=999
 set showcmd
 set showmatch
-set term=xterm-256color
 set wildmenu wildmode=longest:full,full wildcharm=<Tab>
 syntax on
 

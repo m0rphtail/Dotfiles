@@ -15,9 +15,9 @@
   split_vert = <Alt>v
 [profiles]
   [[default]]
+    icon_bell = False
     background_color = "#1e1e1e"
     background_darkness = 0.88
-    cursor_shape = underline
     cursor_color = "#aaaaaa"
     font = JetBrains Mono 11
     foreground_color = "#bfbfbf"
