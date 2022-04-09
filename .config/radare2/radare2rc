@@ -1,2 +1,6 @@
 e scr.utf8=true
 e scr.utf8.curvy=true
+e stack.size=256
+#e asm.describe=true
+#e asm.pseudo=true
+eco ayu
